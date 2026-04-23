@@ -54,7 +54,6 @@ input {
   border: 1px solid #333;
   background-color: #2A2A2A;
   color: #E0E0E0;
-  transition: 0.2s;
 }
 
 input::placeholder {
@@ -63,7 +62,6 @@ input::placeholder {
 
 input:focus {
   border-color: #BA68C8;
-  outline: none;
 }
 
 /* Gradient Button */
@@ -75,7 +73,7 @@ button {
   border: none;
   border-radius: 6px;
   cursor: pointer;
-  transition: 0.3s;
+  
 }
 
 button:hover {
